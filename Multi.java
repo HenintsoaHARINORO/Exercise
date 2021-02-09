@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Multi {
     static int multi(int u) {
         int i = 0;
@@ -10,7 +12,9 @@ public class Multi {
         return res;
     }
     public static void main(String [] args){
-     int a=4;
+        System.out.println("Please enter a number: ");
+        Scanner sc = new Scanner(System.in);
+     int a=sc.nextInt();
      int res=0;
      res=multi(a);
 
