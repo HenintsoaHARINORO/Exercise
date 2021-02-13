@@ -11,7 +11,7 @@ public class daty {
         String J=strDate.substring(0,3);
         for(int i =0;i<jourAnglais.length;i++){
             if(J.equals(jourAnglais[i])){
-                DateDuJour= DateDuJour+jour[i];
+                DateDuJour= DateDuJour+jour[i]+" ";
                 break;
             }
         }
@@ -23,7 +23,7 @@ public class daty {
         String moisAnglais[]={"Jan","Feb","Mar","Apr"};
         for (int i = 0;i<moisAnglais.length;i++){
             if(M.equals(moisAnglais[i])){
-                DateDuJour = DateDuJour +mois[i];
+                DateDuJour = DateDuJour +mois[i]+" ";
                 break;
             }
         }
