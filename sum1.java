@@ -2,8 +2,8 @@ public class sum1 {
     public static void main(String [] args){
         String a="1234";
         int b= 42;
-        int entierA =Integer.parseInt(a);
-        int c = entierA+ b;
+        int integerA =Integer.parseInt(a);
+        int c = integerA+ b;
         System.out.println(c);
 
         String e ="12.50";
@@ -15,7 +15,7 @@ public class sum1 {
 
         int g= 12;
         int h = 34;
-        Integer nbrG = new Integer(g);
+        Integer nbrG = g;
         String numG = nbrG.toString();
         Integer nbrH = h;
         String numH = nbrH.toString();
@@ -29,7 +29,7 @@ public class sum1 {
        double nbrI = Double.parseDouble(i);
        double nbrIJ = j + nbrI;
 
-        Double J = new Double(nbrIJ);
+        Double J =nbrIJ;
         String IJ = J.toString();
         System.out.println(IJ);
 
