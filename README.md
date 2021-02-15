@@ -6,3 +6,4 @@
 * Char: checking a character in a sentence
 * Conversions : integer,String,Float,boxing
 * Date : convert date from java to french expression
+* Sum: sum
