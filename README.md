@@ -11,3 +11,4 @@
 * GridPaneSampleEvents:Sign form with events,dark mode
 * Calculator: with JavaFX not finished yet
 * Lambda expression
+* Binary Search
