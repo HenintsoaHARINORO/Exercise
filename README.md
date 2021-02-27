@@ -12,3 +12,4 @@
 * Calculator: with JavaFX not finished yet
 * Lambda expression
 * Binary Search
+* BreadFirst Search
