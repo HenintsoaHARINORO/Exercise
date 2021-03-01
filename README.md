@@ -14,3 +14,4 @@
 * Binary Search
 * BreadFirst Search
 * Countdown: use of recursion
+* Greet : using recursion
