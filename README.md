@@ -16,3 +16,4 @@
 * Countdown: use of recursion
 * Greet : using recursion
 * Selection sort in java
+* Quick Sort
