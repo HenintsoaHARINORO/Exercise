@@ -24,3 +24,4 @@
 * Price Of Grocries
 * JFrame:drawing tables
 * Compare Beer:use of List
+* Streams of Date: use of streams
