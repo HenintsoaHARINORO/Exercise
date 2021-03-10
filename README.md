@@ -23,3 +23,4 @@
 * Dijkstras Algorithms
 * Price Of Grocries
 * JFrame:drawing tables
+* Compare Beer:use of List
